@@ -9,6 +9,8 @@
 
 A curated list of awesome SP1 resources, tutorials, tools and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+SP1 is a performant, 100% open-source, contributor-friendly zero-knowledge virtual machine (zkVM) that can prove the execution of arbitrary Rust (or any LLVM-compiled language) programs.
+
 If you want to add a new project or see a project which is no longer a good fit, please submit a pull request to improve this file. Thank you!
 
 ## Content
