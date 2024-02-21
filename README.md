@@ -13,9 +13,11 @@ A curated list of awesome SP1 resources, tutorials, tools and libraries. Inspire
 
 - [Official Resources](#official-resources)
 - [Projects](#projects)
-  - [Rollups](#authentication)
-  - [Oracles](#gaming)
+  - [Rollups](#rollups)
+  - [Light Clients](#light-clients)
+  - [Oracles](#oracles)
   - [Web2](#governance)
+  - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
 
@@ -31,16 +33,22 @@ A curated list of awesome SP1 resources, tutorials, tools and libraries. Inspire
 
 - [Reth](https://github.com/succinctlabs/sp1-reth)
 
+### Light Clients
+
+- [Tendermint](https://github.com/succinctlabs/sp1/tree/main/examples/tendermint)
+
 ### Oracles
 
 - [Storage Proofs 1](https://github.com/rkdud007/sp1-storage-proof)
 - [Storage Proofs 2](https://github.com/aerius-labs/sp1-ethereum-storage-proofs)
-
-### Operating Systems
-
-- [Kinode](https://twitter.com/KinodeOS/status/1760404588056674484)
+- [SSZ Proofs](https://github.com/succinctlabs/sp1/tree/main/examples/ssz-withdrawals)
 
 ### Web2
 
 - [ZK Image Editor](https://github.com/Sofianel5/zk-img-editor)
 - [Aros](https://github.com/siddhantsharma301/aros)
+
+### Miscellaneous
+
+- [Kinode](https://twitter.com/KinodeOS/status/1760404588056674484)
+
