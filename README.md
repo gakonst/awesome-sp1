@@ -9,6 +9,8 @@
 
 A curated list of awesome SP1 resources, tutorials, tools and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+If you want to add a new project or see a project which is no longer a good fit, please submit a pull request to improve this file. Thank you!
+
 ## Content
 
 - [Official Resources](#official-resources)
