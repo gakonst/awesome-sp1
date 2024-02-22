@@ -55,4 +55,5 @@ If you want to add a new project or see a project which is no longer a good fit,
 ### Miscellaneous
 
 - [Kinode](https://twitter.com/KinodeOS/status/1760404588056674484)
+- [Black Scholes Premium Proof](https://github.com/jpick713/black-scholes-prover)
 
