@@ -24,7 +24,6 @@ If you want to add a new project or see a project which is no longer a good fit,
   - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
-
 ## Official Resources
 
 - [Docs](https://succinctlabs.github.io/sp1/)
@@ -56,4 +55,4 @@ If you want to add a new project or see a project which is no longer a good fit,
 
 - [Kinode](https://twitter.com/KinodeOS/status/1760404588056674484)
 - [Black Scholes Premium Proof](https://github.com/jpick713/black-scholes-prover)
-
+- [Merkle Tree](https://github.com/rkdud007/sp1-merkle-tree)
