@@ -50,6 +50,7 @@ If you want to add a new project or see a project which is no longer a good fit,
 
 - [ZK Image Editor](https://github.com/Sofianel5/zk-img-editor)
 - [Aros](https://github.com/siddhantsharma301/aros)
+- [ZK Nintendo](https://github.com/corddry/zk-nintendo)
 
 ### Miscellaneous
 
