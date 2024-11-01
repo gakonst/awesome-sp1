@@ -35,10 +35,13 @@ If you want to add a new project or see a project which is no longer a good fit,
 ### Rollups
 
 - [Reth](https://github.com/succinctlabs/sp1-reth)
+- [OP Stack](https://github.com/succinctlabs/op-succinct)
 
 ### Light Clients
 
 - [Tendermint](https://github.com/succinctlabs/sp1/tree/main/examples/tendermint)
+- [Ethereum](https://github.com/succinctlabs/sp1-helios)
+- [Substrate](https://github.com/succinctlabs/sp1-vector)
 
 ### Oracles
 
@@ -56,3 +59,5 @@ If you want to add a new project or see a project which is no longer a good fit,
 - [Kinode](https://twitter.com/KinodeOS/status/1760404588056674484)
 - [Black Scholes Premium Proof](https://github.com/jpick713/black-scholes-prover)
 - [Merkle Tree](https://github.com/rkdud007/sp1-merkle-tree)
+- [FlaZKy Bird ](https://github.com/invocarnau/flazky-bird)
+- [Benchmarking EOF with SP1](https://github.com/cairoeth/sp1-eof)
