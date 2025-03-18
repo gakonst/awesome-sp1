@@ -61,3 +61,4 @@ If you want to add a new project or see a project which is no longer a good fit,
 - [Merkle Tree](https://github.com/rkdud007/sp1-merkle-tree)
 - [FlaZKy Bird ](https://github.com/invocarnau/flazky-bird)
 - [Benchmarking EOF with SP1](https://github.com/cairoeth/sp1-eof)
+- [Privacy Pools](https://github.com/ctian1/pool)
