@@ -48,11 +48,14 @@ If you want to add a new project or see a project which is no longer a good fit,
 - [Storage Proofs 1](https://github.com/rkdud007/sp1-storage-proof)
 - [Storage Proofs 2](https://github.com/aerius-labs/sp1-ethereum-storage-proofs)
 - [SSZ Proofs](https://github.com/succinctlabs/sp1/tree/main/examples/ssz-withdrawals)
+- [Event Log Proofs](https://github.com/puma314/verified-logs)
 
 ### Web2
 
 - [ZK Image Editor](https://github.com/Sofianel5/zk-img-editor)
 - [Aros](https://github.com/siddhantsharma301/aros)
+- [ZK Nintendo](https://github.com/corddry/zk-nintendo)
+- [Proof of Twitter](https://github.com/xavierdmello/proof-of-twitter-sp1)
 
 ### Miscellaneous
 
