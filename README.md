@@ -26,7 +26,7 @@ If you want to add a new project or see a project which is no longer a good fit,
 
 ## Official Resources
 
-- [Docs](https://succinctlabs.github.io/sp1/)
+- [Docs](https://docs.succinct.xyz/)
 - [GitHub](https://github.com/succinctlabs/sp1)
 - [Blog](https://blog.succinct.xyz/introducing-sp1/)
 
@@ -34,7 +34,7 @@ If you want to add a new project or see a project which is no longer a good fit,
 
 ### Rollups
 
-- [Reth](https://github.com/succinctlabs/sp1-reth)
+- [Reth Succinct Processor (RSP)](https://github.com/succinctlabs/rsp)
 - [OP Stack](https://github.com/succinctlabs/op-succinct)
 
 ### Light Clients
